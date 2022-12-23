@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/-decimal-number-conversion-program/static/css/main.d1dfd17f.css",
+    "main.js": "/-decimal-number-conversion-program/static/js/main.9ad42e7f.js",
+    "index.html": "/-decimal-number-conversion-program/index.html",
+    "main.d1dfd17f.css.map": "/-decimal-number-conversion-program/static/css/main.d1dfd17f.css.map",
+    "main.9ad42e7f.js.map": "/-decimal-number-conversion-program/static/js/main.9ad42e7f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d1dfd17f.css",
+    "static/js/main.9ad42e7f.js"
+  ]
+}
